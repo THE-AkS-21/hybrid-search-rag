@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+python-dotenv
+pydantic
+pdfminer.six
+faiss-cpu
+sentence-transformers
+rank_bm25
+nltk
+requests
+pytest
